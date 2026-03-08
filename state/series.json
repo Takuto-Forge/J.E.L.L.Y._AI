@@ -1,0 +1,10 @@
+{
+  "current_series": {
+    "title": "所有の解体学",
+    "episode": 1
+  },
+  "rules": {
+    "start_new_series_probability": 0.25,
+    "max_episodes_before_refresh": 6
+  }
+}
